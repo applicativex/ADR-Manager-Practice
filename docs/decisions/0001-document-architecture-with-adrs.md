@@ -1,6 +1,7 @@
 # Document architecture with ADRS
 
-* Status: proposed
+* Status: accepted
+* Deciders: Andrii
 * Date: 2024-11-27
 
 ## Context and Problem Statement
